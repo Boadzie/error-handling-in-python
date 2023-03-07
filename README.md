@@ -4,4 +4,4 @@ Error handling is a critical aspect of programming, and it involves detecting an
 
 ## To view the code
 
-Click on the .ipynb file in the repository to view the notebook
+Click on the `error-handling-in-python.ipynb` file in the repository to view the notebook.
